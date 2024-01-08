@@ -1,0 +1,87 @@
+
+.card{
+    border: 1px solid #553939;
+    border-radius: 8px;
+    margin: 10px;
+    // display: flex;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    background:url(../img/resim3.jpg);
+    background-size: 150%;
+    background-position: center;
+    box-shadow: 10px 10px 10px rgb(145, 135, 135);
+    color: #594545;
+    position: relative;
+    overflow: hidden;
+    
+    
+    img{
+        width: 80px;
+        // height: 150px;
+        object-fit: cover;
+        margin-top: 10px;
+        box-shadow: 5px 5px 10px rgb(112, 112, 112);
+        transition: 1s;
+        &:hover{
+            width: 150px;           
+        }
+         
+    }
+    .card-body{
+        p{
+            margin: 0;
+
+        }
+        text-align: center;
+        height: 100px;
+        padding: 10px;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
+        line-height: 25px;
+       
+        .delete{
+            position: absolute;
+            bottom:0;
+            left: 0;
+          
+            width: 50px;
+            height: 30px;
+            border-radius: 0 20px 20px 20px;
+            opacity: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: 0.5s;
+            font-size: 20px;
+            font-weight: bold;
+            &:hover{
+                background-color: rgb(235, 129, 129);
+                opacity: 0.7;
+            }
+        }
+       
+        .edit{
+            position: absolute;
+            bottom:0;
+            right: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 30px;
+            border-radius: 20px 0 20px 20px;
+            transition: 0.5s;
+            opacity: 0;
+            font-size: 25px;
+           font-weight: bold;
+           
+
+            &:hover{
+                background-color: rgb(97, 138, 97);
+                opacity: 0.7;
+            }
+        }
+    }
+}

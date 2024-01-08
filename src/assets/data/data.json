@@ -1,0 +1,321 @@
+{
+  "kitaplar": [
+    {
+      "id": 1,
+      "kitapAdi": "Gurur ve Önyargı",
+      "yazar": "Jane AUSTEN",
+      "tur": "Edebiyat",
+      "sayfa": 408,
+      "resim": "https://cdn.kibo.com.tr/kibo/2/1/4/457141.png",
+      "aciklama": "Varsıl centilmen Charles Bingley’nin Netherfield Park malikânesini kiraladığı haberi Longbourn köyü civarında özellikle Bennetlerin hanesinde büyük bir heyecana yol açar. "
+    },
+    {
+      "id": 2,
+      "kitapAdi": "Jane Eyre",
+      "yazar": "Charlotte Brontë",
+      "tur": "Edebiyat",
+      "sayfa": 632,
+      "resim": "https://www.remzi.com.tr/files/books/4563/resim/jane-eyre-rgb.jpg",
+      "aciklama": "Küçük yaşta öksüz kalan Jane Eyre, kendisini hiçbir zaman sevmeyen ancak kocasının vasiyeti üzerine bakımını üstlenen yengesiyle zor bir yaşam sürmektedir. Katı kurallarla yönetilen bir yatılı okula gönderilince, bu kez hayatın başka zorluklarıyla yüzleşmek zorunda kalır. "
+      
+    },
+    {
+      "id": 3,
+      "kitapAdi": "Yüzüklerin Efendisi",
+      "yazar": "J. R. R. Tolkien",
+      "tur": "Fantastik",
+      "sayfa": 1026,
+      "resim": "https://musicart.xboxlive.com/7/8a8d5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "aciklama": "Dünya ikiye bölünmüştür, denir Tolkien'ın yapıtı söz konusu olduğunda: Yüzüklerin Efendisi'ni okumuş olanlar ve okuyacak olanlar. 1997 ile birlikte, çok sayıda Türkiyeli okur da 'okumuş olanlar' safına geçme fırsatı buldu."
+      
+    },
+    {
+      "id": 4,
+      "kitapAdi": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
+      "yazar": "J. K. Rowling",
+      "tur": "Fantastik",
+      "sayfa": 975,
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1109386/wh:true/miw:200/mih:200",
+      "aciklama": "Kanıtlar, bazen, zihninin en rahat ve etkiye en açık olduğu durumlarında –örneğin uyurken– Karanlık Lord’un düşüncelerini ve duygularını paylaştığına işaret ediyor. Müdür bunun devam etmesini uygun bulmuyor. Benim sana, zihnini Karanlık Lord’a karşı nasıl kapatacağını öğretmemi istiyor."
+    },
+    {
+      "id": 5,
+      "kitapAdi": "Osmanlı İmparatorluğu ",
+      "yazar": "Halil İnalcık",
+      "tur": "Tarih",
+      "sayfa": 975,
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5917285/wh:true/wi:220",
+      "aciklama": "Milletleri millet yapan tarihleri ve kültürleridir. Tarihsiz bir millet, kişiliğini kaybetmiş bireye benzer. Osmanlı tarihi, Türk tarihinin görkemli bir dönemidir."
+    },
+    {
+      "id": 6,
+      "kitapAdi": "Zengin baba fakir baba ",
+      "yazar": "Robert T. Kiyosaki",
+      "tur": "Finans",
+      "sayfa": 400,
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11817747/wh:true/wi:220",
+      "aciklama": "Özellikle teknolojinin, robotların ve global bir ekonominin kuralları değiştirdiği bir dünyada, zengin olmak için yüksek gelirinizin olması gerektiği efsanesini çürütür."
+    },
+    {
+      "id": 7,
+      "kitapAdi": "Scikit - Learn Keras ve TensorFlow ile Uygulamalı Makine Öğrenmesi",
+      "yazar": "Aurelien Geron",
+      "tur": "Yazılım",
+      "sayfa": 896,
+      "resim": "https://i.dr.com.tr/cache/500x400-0/originals/0001935591001-1.jpg",
+      "aciklama": "Buzdağı Yayınevi'nin hedefi sadece nitelikli yayınlar çıkarmak değildir. Çıkardığı yayınlarla birlikte Türkiye'nin vizyonunun geliştirilmesine ve gerçekleşmesine katkı sunmayı amaçlamaktadır."
+    },
+    {
+      "id": 8,
+      "kitapAdi": "Harry Potter Felsefe Taşı",
+      "yazar": "J. K. Rowling",
+      "tur": "Fantastik",
+      "sayfa": "250",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1109383/wh:true/wi:500",
+      "aciklama": "mukammel"
+    },
+    {
+      "id": 9,
+      "kitapAdi": "Binbir Gece Masalları",
+      "yazar": "Alim Şerif Onaran",
+      "tur": "Fantastik",
+      "sayfa": "500",
+      "resim": "https://www.yargiyayinevi.com/yapi-kredi-yayinlari-37532-36-B.jpg",
+      "aciklama": "Yüzlerce yıl boyunca, Çin'den Kuzey Afrika'ya uzanan ve Çin, Çin Hindi, Hindistan, İran, Irak, Türkiye, Suriye ve Mısır'ı kapsayan bir alanda anlatılan Binbir Gece Masalları, ilk kez Antoine Galland tarafından düzenlenip Fransızcaya çevrilerek (1704-17, 12 cilt) dünyaya tanıtıldı. Bugüne kadar belli başlı bütün dillere çevrilen bu masallar, Galland'dan çok daha öncesinden başlayarak, edebiyattan müziğe, sinemadan baleye kadar bütün alanlarda pek çok sanatçıyı derinliğine etkiledi, defalarca işlendi, yeniden yorumlandı, taklit edildi."
+    },
+    {
+      "id": 10,
+      "kitapAdi": "JAVA ile Programlama ve Veri Yapıları",
+      "yazar": "Bülent Çobanoğlu",
+      "tur": "Yazılım",
+      "sayfa": "404",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11589989/wh:true/wi:220",
+      "aciklama": "Algoritma Geliştirme ve Veri Yapıları kitabının yazarı Bülent Çobanoğlu’ndan aynı sade ve akıcı anlatıma sahip bir diğer kitap. Bu kitapla Java''yı temellerinden kavrayıp, programlamaya giriş yapabilir, mevcut bilgilerinizi şekillendirip Java''yı daha iyi öğrenebilirsiniz."
+    },
+    {
+      "id": 11,
+      "kitapAdi": "C/C++ Programlama Dili ile Uygulama Geliştirme",
+      "yazar": "Doç. Dr. Fatih Başçiftçi -ATLAS AKADEMİ",
+      "tur": "Yazılım",
+      "sayfa": "510",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3293200/wh:true/wi:220",
+      "aciklama": "C programlama dili, günümüzde en yaygın olarak kullanılan programlama dillerinden biridir. Bu kitap Yüksek Öğretim Müfredatına uygun olarak üniversitelerde verilen \"Programlamaya Giriş\" veya \"C Programlama Dili\" dersleri için hazırlanmıştır."
+    },
+    {
+      "id": 12,
+      "kitapAdi": "Paranın Kuralı Finans Dünyasının En Başarılı Yatırımcı ve İşlemcilerinden Tavsiyeler",
+      "yazar": "Ali Perşembe",
+      "tur": "Finans",
+      "sayfa": "560",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11342531/wh:true/wi:220",
+      "aciklama": "Yaşamın her alanında olduğu gibi, finans ve yatırım alanlarında da bir şeyi yanlış yapmanın binbir yolu varken, doğru yapmanın bir yolu var. Paranın Kuralı’nda yer alan 333 kahramanın akıl damlalarını yiyip yuttuğumuzda hepsinin ortak bir sesle bu tek doğru yoldan bahsettiğine tanık olacağız."
+    },
+    {
+      "id": 13,
+      "kitapAdi": "Milli Mücadele Tarihi",
+      "yazar": "Prof. Dr. Halil İnalcık ",
+      "tur": "Tarih",
+      "sayfa": "208",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11618427/wh:true/wi:220",
+      "aciklama": "arih alanında dünyanın tartışmasız en büyük isimlerinden biri olan Halil İnalcık’ın kaleminden Millî Mücadele Tarihi.\nİnkılâp tarihini bir bütün olarak kavrayabilmek için 1908 yılındaki II. Meşrutiyet’in ilanından başlanması gerektiğini söyleyen İnalcık, ilk olarak 1908-1918 arasındaki belli başlı gelişmeleri kuşbakışı bir perspektifle ele alıyor."
+    },
+    {
+      "id": 14,
+      "kitapAdi": "The Ottoman Empire Conquest, Organization and Economy",
+      "yazar": "Prof. Dr. Halil İnalcık",
+      "tur": "Tarih",
+      "sayfa": "392",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11767528/wh:true/wi:220",
+      "aciklama": "This new edition of sixteen articles by Halil I ̇nalcık, first compiled in 1978, brings together some of his most seminal studies on the Ottoman state and society. Across three thematic sections, the book addresses a variety of key issues in the empire’s political, social and economic history from the fourteenth to the nineteenth century."
+    },
+    {
+      "id": 15,
+      "kitapAdi": "Sefiller",
+      "yazar": "Victor Hugo",
+      "tur": "Edebiyat",
+      "sayfa": "1724",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6620926/wh:true/wi:220",
+      "aciklama": "İlk kez 1862 yılında yayımlanan Sefiller yazarın Notre-Dame’ın Kamburu ile “din”, Deniz İşçileri ile “doğa” konularını işlediği roman üçlemesinin “toplum”u ele alan, en görkemli ayağıdır. Bu destansı roman Fransız toplumundan yola çıkarak, kozmolojik bir bakış ve eşsiz bir duyarlılıkla insanlığa ulaşır. Fantine’in, Cosette’in, Marius’ün, Saint-Denis Sokağı barikatlarının, Paris’in, Javert’in ve Jean Valjean’ın sefaletten sevgiye, felaketten iyiliğe ve karanlıktan aydınlığa uzanan hikâyeleri Hasan Âli Yücel Klasikler Dizisi’nin 250. kitabında okurlarla buluşuyor.",
+      "isDeleted": true
+    },
+    {
+      "kitapAdi": "HOCA BUNA KIZDI!!!",
+      "yazar": "Alexandre Dumas ",
+      "tur": "Edebiyat",
+      "sayfa": "1552",
+      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6932176/wh:true/wi:220",
+      "aciklama": "Alexandre Dumas (père) (1802-1870): On dokuzuncu yüzyılda Avrupa’yı saran siyasal ve sosyal çalkantıları yaşamasına rağmen daha çok on altıncı ve on yedinci yüzyılın tarihi olaylarını konu alan üç yüzden fazla roman yazdı. Yaşadığı dönemin sevilen ve en çok okunan romantik yazarlarından biridir. Monte Cristo Kontu ilk kez 1844 yılında Journal des Débats’da tefrika edilmiş, Batılı kültür dünyasına tüketilmesi imkânsız bir arketip armağan etmiştir.",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "kitapAdi": "aaa",
+      "yazar": "aa",
+      "tur": "Yazılım",
+      "sayfa": "33",
+      "resim": "",
+      "aciklama": "aaa",
+      "isDeleted": true
+    },
+    {
+      "id": 18,
+      "kitapAdi": "ssss",
+      "yazar": "aaaa",
+      "tur": "Finans",
+      "sayfa": "2222",
+      "resim": "",
+      "aciklama": "sddsdfdsf",
+      "isDeleted": true
+    },
+    {
+      "id": 19,
+      "kitapAdi": "aaaa",
+      "yazar": "aaa",
+      "tur": "Tarih",
+      "sayfa": "222",
+      "resim": "",
+      "aciklama": "aaa",
+      "isDeleted": true
+    },
+    {
+      "id": 20,
+      "kitapAdi": "aaa",
+      "yazar": "aaa",
+      "tur": "Tarih",
+      "sayfa": "2222",
+      "resim": "",
+      "aciklama": "dfdgfdgd",
+      "isDeleted": true
+    },
+    {
+      "id": 21,
+      "kitapAdi": "aaa",
+      "yazar": "aaa",
+      "tur": "Edebiyat",
+      "sayfa": "222",
+      "resim": "",
+      "aciklama": "aaa",
+      "isDeleted": true
+    },
+    {
+      "id": 22,
+      "kitapAdi": "aaa",
+      "yazar": "aa",
+      "tur": "Edebiyat",
+      "sayfa": "243435",
+      "resim": "",
+      "aciklama": "asddsfdvdfg",
+      "isDeleted": true
+    },
+    {
+      "id": 23,
+      "kitapAdi": "aa",
+      "yazar": "aa",
+      "tur": "Yazılım",
+      "sayfa": "22",
+      "resim": "",
+      "aciklama": "VDFHGDT",
+      "isDeleted": true
+    },
+    {
+      "kitapAdi": "aa",
+      "yazar": "aa",
+      "tur": "Edebiyat",
+      "sayfa": "33",
+      "resim": "",
+      "aciklama": "ddd",
+      "id": 24
+    },
+    {
+      "kitapAdi": "ewq",
+      "yazar": "4324",
+      "tur": "Edebiyat",
+      "sayfa": "324",
+      "resim": "234",
+      "aciklama": "234234",
+      "id": 25
+    },
+    {
+      "kitapAdi": "323",
+      "yazar": "2321",
+      "tur": "Edebiyat",
+      "sayfa": "3213",
+      "resim": "",
+      "aciklama": "3123",
+      "id": 26
+    },
+    {
+      "kitapAdi": "aaa",
+      "yazar": "aa",
+      "tur": "Yazılım",
+      "sayfa": "222",
+      "resim": "",
+      "aciklama": "aaa",
+      "id": 27,
+      "isDeleted": true
+    },
+    {
+      "kitapAdi": "111",
+      "yazar": "111",
+      "tur": "Yazılım",
+      "sayfa": "111",
+      "resim": "",
+      "aciklama": "111",
+      "id": 28
+    },
+    {
+      "kitapAdi": "aaa",
+      "yazar": "aaa",
+      "tur": "Edebiyat",
+      "sayfa": "22",
+      "resim": "",
+      "aciklama": "qqq",
+      "id": 29,
+      "isDeleted": true
+    },
+    {
+      "kitapAdi": "232",
+      "yazar": "323",
+      "tur": "Yazılım",
+      "sayfa": "323",
+      "resim": "",
+      "aciklama": "232",
+      "id": 30
+    },
+    {
+      "id": 31,
+      "kitapAdi": "abcdddd",
+      "yazar": "rrer",
+      "tur": "Yazılım",
+      "sayfa": "534",
+      "resim": "",
+      "aciklama": "43"
+    }
+  ],
+  "kategoriler": [
+    {
+      "kategoriId": 0,
+      "kategoriAdi": "Tüm Kitaplar"
+    },
+    {
+      "kategoriId": 1,
+      "kategoriAdi": "Edebiyat"
+    },
+    {
+      "kategoriId": 2,
+      "kategoriAdi": "Yazılım"
+    },
+    {
+      "kategoriId": 3,
+      "kategoriAdi": "Fantastik"
+    },
+    {
+      "kategoriId": 4,
+      "kategoriAdi": "Tarih"
+    },
+    {
+      "kategoriId": 5,
+      "kategoriAdi": "Finans"
+    }
+  ]
+}

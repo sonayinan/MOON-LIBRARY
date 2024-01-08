@@ -1,0 +1,39 @@
+form{
+    border: 1px solid #594545;
+    width: 500px;
+    // height: 400px;
+    background: linear-gradient(rgba(167, 134, 134, 0.336),rgba(255, 248, 234, 0.473),#a78686),url(../img/library.jpg);
+    padding:20px;
+    margin: auto;
+    text-align: center;
+    margin:20px auto;
+    color: #251d1d;
+
+    input,select,textarea{
+        display: block;
+        margin: auto;
+        width: 90%;
+        padding: 8px 10px;
+        margin-bottom: 10px;
+        border-radius: 8px;
+        border: 1px solid #594545;
+        background-color: #dacbcb9c;
+        color: #594545;
+    }
+    input[type="submit"]{//bu kısımda button olan inputu class eklemeden çağırdık. kısayol yani. type yaz ve özellik tanımla
+        background-color: #59454591;
+        padding: 15px;
+        font-size: 18px;
+        font-weight: bold;
+        border-radius: 20px;
+        height: 50px;
+        color: #251d1d;
+        &:hover{
+            background-color: #594545;
+
+        }
+    }
+    input[type="submit"]:disabled{
+        visibility: hidden;
+    }
+}

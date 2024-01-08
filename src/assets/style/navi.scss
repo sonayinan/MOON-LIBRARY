@@ -1,0 +1,83 @@
+nav{
+    background:linear-gradient(#ccc6bb,#c7b3b30c);
+    //#ccc6bb
+    display: flex;
+    justify-content: space-between;
+    color: #815B5B;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-right: 20px;
+    ul{
+        .pulse {
+            -webkit-animation-name: pulse;
+            animation-name: pulse;
+            -webkit-animation-duration: 1s;
+            animation-duration: 1s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+            animation-iteration-count: infinite;
+            }
+            @-webkit-keyframes pulse {
+            0% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            50% {
+            -webkit-transform: scale3d(1.05, 1.05, 1.05);
+            transform: scale3d(1.05, 1.05, 1.05);
+            }
+            100% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            }
+            @keyframes pulse {
+            0% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            50% {
+            -webkit-transform: scale3d(1.05, 1.05, 1.05);
+            transform: scale3d(1.05, 1.05, 1.05);
+            }
+            100% {
+            -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+            }
+            } 
+        img{
+            width: 50px;
+           
+        }
+        span{
+            font-size: 25px;
+           
+           &:hover{
+            animation: fade 2s infinite alternate;//animasyon ekledik burda sırasıyla isim süresi döngüsü(sonsuz) geçişler yumuşak olsun diye alternate
+            cursor: pointer;
+           }
+        }
+        @keyframes fade {//burada ise renkleri verip sırayla değiştirdik
+            0%{color: #bdad8d;}
+            50%{color: #815B5B;}
+            100%{color: #ccc6bb;}
+            
+        }
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        li{
+            list-style: none;
+            transition: 0.5s;
+            font-size: 18px;
+            &:hover{//bu yapı ile hover ekledik yapımıza
+                text-decoration: underline;
+                color: #bdad8d;
+                cursor: pointer;
+                // cursor ile fare şekli değiştirdik.
+                transform: scale(1.3);//yazımız üzerine gelince büyüyor.
+            }
+            
+        }
+    }
+}

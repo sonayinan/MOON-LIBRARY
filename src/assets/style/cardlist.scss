@@ -1,0 +1,58 @@
+.card-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.kategori{
+    color: #493535;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background:linear-gradient(#c1a3a3a9,#f3c5c5a2);
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+   padding-right: 30px;
+   
+   
+    }
+    .kat{
+        text-align: center;
+        letter-spacing: 2px;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        padding: 10px;
+        border-radius: 8px;
+        background:linear-gradient(#fff8eaa1,#f3c5c579),url(../img/raf.jpg);
+        background-size: 20%;
+        background-position: center;
+    .deneme{
+        display: flex;
+        position: relative;
+        width: 400px;
+    }
+    .ara{
+        display: inline-block;
+        width: 100%;
+        padding: 15px;
+        padding-right: 10px;
+        gap: 10px;
+        border-radius: 8px;
+        border: 1px solid #694e4eb9;
+        margin-left: 100px;
+    }
+    .search{
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        text-align: center;
+
+    }
+}
